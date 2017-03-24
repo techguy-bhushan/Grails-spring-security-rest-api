@@ -1,5 +1,6 @@
 # Grails-spring-security-rest-api-tutorial
 
+Rest Api secure with spring security- Sample
 
 This is a simple Spring Security REST Plugin tutorial where token-based  Authorization is used, app build on grails 2.4.3 version.
 Here I am using roles 1: ROLE_ADMIN (who can see all the list of users/read all posts) 2: ROLE_USER (who can create the Posts/ read all post).
